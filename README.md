@@ -64,8 +64,9 @@ python pyproject.py
 ```
 Painting_app/
 │
-├── pyproject.py          # Main application file
-└── README.md         # Project documentation
+├── pyproject.py                  # Main application file
+└── README.md                     # Project documentation
+└── Painting_app_screenshot.png   # interface layout screenshot
 ```
 ## ⚠️ Known Limitations
 •	Colour names must be valid Tkinter colour strings. Invalid names trigger an error dialog.
