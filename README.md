@@ -29,11 +29,7 @@ python pyproject.py
 │                                      │  Painting         │
 │                                      │  Application      │
 └──────────────────────────────────────┴───────────────────┘
-```
-
-## 📸 Screenshot
-
-![Simple Painting Application]("C:\Users\Charan\OneDrive\Pictures\Screenshots\Screenshot.png")
+``'
 
 ## 🎛️ Features & Usage
 ✏️ Drawing
