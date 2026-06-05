@@ -33,9 +33,7 @@ python pyproject.py
 
 ## 📸 Screenshot
 
-
-
-![Simple Painting Application]("C:\Users\Charan\OneDrive\Pictures\Screenshots\Screenshot 2026-05-28 221426.png")
+![Simple Painting Application]("C:\Users\Charan\OneDrive\Pictures\Screenshots\Screenshot.png")
 
 ## 🎛️ Features & Usage
 ✏️ Drawing
